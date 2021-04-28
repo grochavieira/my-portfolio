@@ -45,6 +45,10 @@
 
 ## 🎨 Layout
 
+<a align="center" target="blank" href="https://www.figma.com/file/awkUgEz4N12lWqW2cbwqfm/MyPortfolio?node-id=0%3A1">
+    <img alt="Figma MyPortfolio" src="https://img.shields.io/static/v1?label=my_portfolio&message=podcastr&color=4953B8&style=flat&logo=figma">
+</a>
+
 ---
 
 ## 🚀 Como executar o projeto
