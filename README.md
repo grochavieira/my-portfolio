@@ -46,7 +46,7 @@
 ## 🎨 Layout
 
 <a align="center" target="blank" href="https://www.figma.com/file/awkUgEz4N12lWqW2cbwqfm/MyPortfolio?node-id=0%3A1">
-    <img alt="Figma MyPortfolio" src="https://img.shields.io/static/v1?label=my_portfolio&message=podcastr&color=A259FF&style=flat&logo=figma">
+    <img alt="Figma MyPortfolio" src="https://img.shields.io/static/v1?label=figma&message=my_portfolio&color=A259FF&style=flat&logo=figma">
 </a>
 
 ---
